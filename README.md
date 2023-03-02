@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @PawanLavvanshi
-- 👀 I’m interested in android app development and web development.
-- 🌱 I’m currently learning java, swing, HTML and CSS to develop web and app.
-- 💞️ I’m looking to collaborate on web design or android app design. 
+- 👀 I’m interested in android app development,  web development and software development.
+- 🌱 I’m have knowledge of C, C++, java, javascript, python, Dart, HTML and CSS programming languages.
+I have good command on database and SQL.
+- 💞️ I’m looking to collaborate on web design, android app design or software design. 
 - 📫 How to reach me ... Email me on pawanpklodha@gmail.com or call me on 6376891021.
 
 <!---
